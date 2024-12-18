@@ -1,2 +1,2 @@
 # Vitus-Spitzbuben
-[Seite](Main.html).
+[Seite](index.html).

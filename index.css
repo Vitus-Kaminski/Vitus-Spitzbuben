@@ -34,7 +34,7 @@ svg text {
 	animation: stroke 20s infinite alternate;
 	stroke-width: 2;
 	stroke: #FFFFFF;
-	font-size: 200px;
+	font-size: 120px;
 }
 @keyframes stroke {
 	0%   {
